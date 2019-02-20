@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ImagingTOOL", "ImagingTOOL", "{D719431F-B909-44D8-AEFC-D11EE94E2C3D}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6"
+		ProjectReferences = "{137C2868-7EE8-4336-8B42-45F66A133A1C}|BusinessLogicLayer.dll;{77E83805-BB61-459C-9A16-0D80B888F492}|DataAccessLayer.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/ImagingTOOL"
+		Debug.AspNetCompiler.PhysicalPath = "ImagingTOOL\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ImagingTOOL\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ImagingTOOL"
+		Release.AspNetCompiler.PhysicalPath = "ImagingTOOL\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ImagingTOOL\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53845"
+		SlnRelativePath = "ImagingTOOL\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{137C2868-7EE8-4336-8B42-45F66A133A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{77E83805-BB61-459C-9A16-0D80B888F492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D719431F-B909-44D8-AEFC-D11EE94E2C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D719431F-B909-44D8-AEFC-D11EE94E2C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D719431F-B909-44D8-AEFC-D11EE94E2C3D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{D719431F-B909-44D8-AEFC-D11EE94E2C3D}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{137C2868-7EE8-4336-8B42-45F66A133A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{137C2868-7EE8-4336-8B42-45F66A133A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{137C2868-7EE8-4336-8B42-45F66A133A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{137C2868-7EE8-4336-8B42-45F66A133A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77E83805-BB61-459C-9A16-0D80B888F492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77E83805-BB61-459C-9A16-0D80B888F492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77E83805-BB61-459C-9A16-0D80B888F492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77E83805-BB61-459C-9A16-0D80B888F492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

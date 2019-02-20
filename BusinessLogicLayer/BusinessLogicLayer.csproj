@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{137C2868-7EE8-4336-8B42-45F66A133A1C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessLogicLayer</RootNamespace>
+    <AssemblyName>BusinessLogicLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessServices.cs" />
+    <Compile Include="ClsAR.cs" />
+    <Compile Include="ClsCheck.cs" />
+    <Compile Include="ClsDeliveryChallan.cs" />
+    <Compile Include="ClsGST_PDF.cs" />
+    <Compile Include="ClsMaster.cs" />
+    <Compile Include="ClsPurchaseBillPendingRpt.cs" />
+    <Compile Include="ClsPurchaseInvoice.cs" />
+    <Compile Include="ClsPurchaseOrder.cs" />
+    <Compile Include="ClsPurchaseOutstandingRpt.cs" />
+    <Compile Include="ClsReportAR.cs" />
+    <Compile Include="ClsReportDeliveryChallan.cs" />
+    <Compile Include="ClsReportDiscrepancy.cs" />
+    <Compile Include="ClsReportOrderPending.cs" />
+    <Compile Include="ClsReportPurchaseOrder.cs" />
+    <Compile Include="ClsReportSalesRegister.cs" />
+    <Compile Include="ClsReportStock.cs" />
+    <Compile Include="ClsSalesManagerChecking.cs" />
+    <Compile Include="ClsSalesOrder.cs" />
+    <Compile Include="ClsSalesOutStandingRpt.cs" />
+    <Compile Include="ClsSalesRegister.cs" />
+    <Compile Include="ClsGoodsReceiptNote.cs" />
+    <Compile Include="ClsStockTransfer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ClsReportSalesOrder.cs" />
+    <Compile Include="ReorderLevelRpt.cs" />
+    <Compile Include="ServiceAttachApproval.cs" />
+    <Compile Include="SpecialPriceApproval.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{77E83805-BB61-459C-9A16-0D80B888F492}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

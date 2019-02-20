@@ -1,0 +1,133 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.master" AutoEventWireup="true" EnableEventValidation="false" CodeFile="ReportOrdersPendingFromSupplier.aspx.cs" Inherits="ReportOrdersPendingFromSupplier" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<%@ Register Assembly="RJS.Web.WebControl.PopCalendar.Net.2010" Namespace="RJS.Web.WebControl"
+    TagPrefix="rjs" %>
+
+
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+<div id="main-content">
+         <!-- BEGIN PAGE CONTAINER-->
+         <div class="container-fluid">
+            <!-- BEGIN PAGE HEADER-->   
+            <div class="row-fluid">
+               <div class="span12">
+                  
+                  <h3 class="page-title">
+                      Report
+                  </h3>
+                   <ul class="breadcrumb">
+                       <li>
+                           <a href="Workflow.aspx"><i class="icon-home"></i></a><span class="divider">&nbsp;</span>
+                       </li>
+                       <li>
+                          <a href="#">Report</a><span class="divider">&nbsp;</span>
+                       </li>
+                       
+                    <li> <a href="ReportOrdersPendingFromSupplier.aspx">Orders Pending From Supplier</a><span class="divider-last">&nbsp;</span></li>
+                   </ul>
+               </div>
+            </div>
+            <!-- END PAGE HEADER-->
+            <!-- BEGIN PAGE CONTENT-->
+            <div class="row-fluid">
+                <div class="span12 sortable">
+                    <!-- BEGIN SAMPLE FORMPORTLET-->
+                    <div class="widget">
+                        <div class="widget-title">
+                            <h4>Orders Pending From Supplier Report</h4>
+                                        <span class="tools">
+                                        <a href="javascript:;" class="icon-chevron-down"></a>
+                                        <a href="javascript:;" class="icon-remove"></a>
+                                        </span>
+                        </div>
+                        <div class="widget-body">
+                            <!-- BEGIN FORM-->
+                            <form action="#" class="form-horizontal">
+                              <table style="width: 100%">
+                                <tr>
+                                    <td colspan="2">
+                                      </td>
+                                    <td style="width: 64px">
+                                        &nbsp;</td>
+                                    <td style="width: 229px">
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 79px">
+                                        From Date</td>
+                                    <td style="width: 217px">
+                                        <asp:TextBox ID="TxtFromDate" runat="server"></asp:TextBox>
+                                        <rjs:PopCalendar ID="PopCalendar1" runat="server" ShowErrorMessage="False" Separator="-"
+                                                Format="dd mmm yyyy" Control="TxtFromDate" KeepInside="False"></rjs:PopCalendar>
+
+                       
+                                            
+                                    </td>
+                                    <td style="width: 64px">
+                                        To Date</td>
+                                    <td style="width: 229px">
+                                        <asp:TextBox ID="TxtToDate" runat="server"></asp:TextBox>
+                                         <rjs:PopCalendar ID="PopCalendar2" runat="server" ShowErrorMessage="False" Separator="-"
+                                                Format="dd mmm yyyy" Control="TxtToDate" KeepInside="False"></rjs:PopCalendar>
+                        
+                                            
+                                    </td>
+                                    <td>
+                                        <asp:Button ID="BtnExport" runat="server" Text="Export" onclick="BtnExport_Click" 
+                                         />
+                                    </td>
+                                    <td>
+                                        &nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 79px">
+                                        &nbsp;</td>
+                                    <td style="width: 217px">
+                                        &nbsp;</td>
+                                    <td style="width: 64px">
+                                        &nbsp;</td>
+                                    <td style="width: 229px">
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                </tr>
+                                <tr>
+                                    <td style="width: 79px">
+                                        &nbsp;</td>
+                                    <td style="width: 217px">
+                                        &nbsp;</td>
+                                    <td style="width: 64px">
+                                        &nbsp;</td>
+                                    <td style="width: 229px">
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                    <td>
+                                        &nbsp;</td>
+                                </tr>
+                            </table>
+                            </form>
+                            <!-- END FORM-->
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                            <br />
+                        </div>
+                    </div>
+                    <!-- END SAMPLE FORM PORTLET-->
+                </div>
+            </div>
+
+            <!-- END PAGE CONTENT-->         
+         </div>
+         <!-- END PAGE CONTAINER-->
+      </div>
+</asp:Content>
+

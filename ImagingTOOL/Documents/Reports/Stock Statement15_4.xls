@@ -1,0 +1,833 @@
+<table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Product Name</td><td>Product Code</td><td>As On Date</td><td>Openning balance Mumbai</td><td>Openning balance Delhi</td><td>Openning balance Chennai</td><td>Openning balance Bangalore</td><td>Openning balance Ahmedabad</td><td>Purchase Mumbai</td><td>Purchase Delhi</td><td>Purchase Chennai</td><td>Purchase Bangalore</td><td>Purchase Ahmedabad</td><td>Sales Mumbai</td><td>Sales Delhi</td><td>Sales Chennai</td><td>Sales Bangalore</td><td>Sales Ahmedabad</td><td>Closeing balance Mumbai</td><td>Closeing balance Delhi</td><td>Closeing balance Chennai</td><td>Closeing balance Bangalore</td><td>Closeing balance Ahmedabad</td>
+	</tr><tr>
+		<td>730DC Belt Unit Paper Feed</td><td>G402-3808</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A3 Flatbed</td><td>1894351</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A4 Legal Flatbed</td><td>1199470</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>ASSLY CAMERA FRONT</td><td>002-3745A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-LOWER –EXP</td><td>6J7308</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-UPPER –EXP</td><td>6J7918</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle lower for i2000</td><td>6J7450</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle upper for i2000</td><td>9E7426</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BASE-FRONT</td><td>5F8320</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Background, FP/BP,67T</td><td>SPS008093</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 107T</td><td>9E8861</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 132T</td><td>9E8208</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Timing 91-EXP</td><td>9E4089</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 99T</td><td>9E8245</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,102T</td><td>SP398366A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,64T</td><td>SP398365A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,82T</td><td>SP398364A</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Skimmer Module,61T</td><td>SP398367A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i5000 series</td><td>8F9948</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i600 series</td><td>9E3357</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Board-On/Off for i4000 series</td><td>8F8390</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Bottom Output Cover for i1400 Series scanner</td><td>5F8460</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Sheet for i1120</td><td>066-0888-0</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Target</td><td>1271436</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group A</td><td>1309947</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group B</td><td>1295518</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group C</td><td>1494541</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group D</td><td>1598572</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group Dx</td><td>1012715</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover –POD Left for  i5000 series</td><td>8F8006</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover Feeder For i1200/i1300</td><td>9E4304</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, INPUT</td><td>5F8461</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, OUTPUT</td><td>5F8460</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover-Main Right for i4000 Series</td><td>8F8054</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Document Printer: Ink Cartridges / Black (10 cartridges) for i600 series</td><td>1355155</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer: Black Ink Cartridge</td><td>8183386</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer:Ink Cartridge Carrier</td><td>1133842</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i1400 Scanner</td><td>8215808</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large feeder kit for i5200</td><td>8387938</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i600 series</td><td>8426157</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed module Assy for i900 series</td><td>8467839</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Module for i2000 series</td><td>8269607</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller and separation pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller Assy. For i1120 Scanner</td><td>002-4519A-0</td><td>14 Apr 2015</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Rollers and Seperation Pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Consumable kit for i2900/i3000</td><td>1299676</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder consumable kit for i600 series</td><td>1084755</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i1180/i1150 Scanner</td><td>1756360</td><td>14 Apr 2015</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i4000 series</td><td>8327538</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable white Back ground with enhanced Printerfor i4000</td><td>8000853</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable White Background (without  Enhanced Printer)</td><td>8088239</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Hook Latch for i2000 Series</td><td>7J3545</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Housing Upper for i1120 Scanner</td><td>051-3805A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i1150</td><td>1664390</td><td>14 Apr 2015</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td>
+	</tr><tr>
+		<td>i1180</td><td>1840420</td><td>14 Apr 2015</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td>
+	</tr><tr>
+		<td>i1405</td><td>8252843</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i1420</td><td>8272676</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2400</td><td>8861437</td><td>14 Apr 2015</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td>
+	</tr><tr>
+		<td>i2600</td><td>1333756</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2800</td><td>1552181</td><td>14 Apr 2015</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2900</td><td>1140219</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3200</td><td>1641745</td><td>14 Apr 2015</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3250</td><td>1420975</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3400</td><td>1947506</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3450</td><td>1992874</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4200</td><td>8453508</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4600</td><td>1443589</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5200</td><td>8300766</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5800</td><td>8870412</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i940</td><td>1960988</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td>
+	</tr><tr>
+		<td>IEEE Firewire card and cable for i100/i600 series scanner</td><td>4F5114</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i100/i280 Scanner</td><td>1200278</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (With enhanced Printer)</td><td>8714438</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (Without enhanced Printer)</td><td>8348054</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i600 series</td><td>1976703</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ink Catridge Carrier for i5000 series</td><td>9E5146</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy  i5200</td><td>7J3929</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>INPUT TRAY ASSY FOR i1400 series Scanner</td><td>9E9512</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy-locking guides for i600</td><td>9E7557</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i1200/i1300 series</td><td>9E7761</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i2000 series scanner</td><td>7J3551 / 7J3553</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Kodak White Background Accessory</td><td>8927717</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i1400 series scanner</td><td>9E9173</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i200 / i600 Series</td><td>9E3312</td><td>14 Apr 2015</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Latch handle for i5200</td><td>8F8430</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED Assy -Right for i4200</td><td>8F8363</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED AY-Left for i4000 Series</td><td>8F8364</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lite on Camera Lower for i1200</td><td>9E3275</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i1400 series</td><td>9E9823</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i250/i260 series</td><td>9E7681</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Scan Module LED for i2000</td><td>6J7232</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Transport Assy</td><td>5F8459</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Main board for i1400 series scanner</td><td>9E9702</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT LARGE TRASPORT ROLLERS 648T</td><td>SP398317A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT STEPPER MOTOR 124T</td><td>SP398316A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ngenuity Small roller Kit</td><td>CNS1100</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY for i1200/i1300</td><td>9E5630</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Output Tray for i5200</td><td>8F9765</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY PII - EXP for i2000 series  </td><td>7J4336</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1120</td><td>005-3021B-09</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1400 series</td><td>6J7256</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i2000 series scanner</td><td>8F8466</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power adaptor for i900 series scanner</td><td>33-00400-02A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Supply Adaptor for i100</td><td>8F7793</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pre-separation pad kit for i1120 Scanner</td><td>002-4534A-0</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pully Assy,IDLER-EXP</td><td>SPS009021</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>REAR COVER</td><td>9E9345</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Roller Cleaning pads</td><td>8535981</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR for i4000 series Scanner</td><td>9E8927</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR-PAPER PRESENT for i1200/i1300 series scanner</td><td>9E4323</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Separation Module for i2000 series</td><td>1736115</td><td>14 Apr 2015</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Seperation Module for i940</td><td>1775246</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Assy.Drive Take away</td><td>9E4822</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Mid Aperture</td><td>6J7432</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive mid aperture for i2000 Series</td><td>6J7288</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Post aperture for i2000 Series</td><td>6J7289</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Pre Aperture</td><td>6J7431</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Take Away</td><td>9E8357</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Mother Board  </td><td>S006792</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Motor Timing Belt</td><td>S007757</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Power Supply</td><td>Y005380</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Skimmer Modular Assy</td><td>Y005226</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Transport Timing Belt</td><td>S007759</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum V Timing Belt</td><td>S007758</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum XF camera  </td><td>SPS007740</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Switch Front Cover for i1120</td><td>008-0118A-09</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Top Cover Assy for i1400</td><td>9E9179</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Transport Cleaning Sheet</td><td>1690783</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Truper Roller Exchange Kit</td><td>8460321</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Receiver for i1200 / i1400 series</td><td>9E5617</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200 /i1400 Series</td><td>5E4635</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200  </td><td>9E4211</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i1400 series</td><td>9E9822</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i250/i260 series</td><td>9E7679</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper transport Assy.</td><td>5F8359</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Y Adptor Cable for i2000 Series</td><td>8F9955</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Product Name</td><td>Product Code</td><td>As On Date</td><td>Openning balance Mumbai</td><td>Openning balance Delhi</td><td>Openning balance Chennai</td><td>Openning balance Bangalore</td><td>Openning balance Ahmedabad</td><td>Purchase Mumbai</td><td>Purchase Delhi</td><td>Purchase Chennai</td><td>Purchase Bangalore</td><td>Purchase Ahmedabad</td><td>Sales Mumbai</td><td>Sales Delhi</td><td>Sales Chennai</td><td>Sales Bangalore</td><td>Sales Ahmedabad</td><td>Closeing balance Mumbai</td><td>Closeing balance Delhi</td><td>Closeing balance Chennai</td><td>Closeing balance Bangalore</td><td>Closeing balance Ahmedabad</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Product Name</td><td>Product Code</td><td>As On Date</td><td>Openning balance Mumbai</td><td>Openning balance Delhi</td><td>Openning balance Chennai</td><td>Openning balance Bangalore</td><td>Openning balance Ahmedabad</td><td>Purchase Mumbai</td><td>Purchase Delhi</td><td>Purchase Chennai</td><td>Purchase Bangalore</td><td>Purchase Ahmedabad</td><td>Sales Mumbai</td><td>Sales Delhi</td><td>Sales Chennai</td><td>Sales Bangalore</td><td>Sales Ahmedabad</td><td>Closeing balance Mumbai</td><td>Closeing balance Delhi</td><td>Closeing balance Chennai</td><td>Closeing balance Bangalore</td><td>Closeing balance Ahmedabad</td>
+	</tr><tr>
+		<td>730DC Belt Unit Paper Feed</td><td>G402-3808</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A3 Flatbed</td><td>1894351</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A4 Legal Flatbed</td><td>1199470</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>ASSLY CAMERA FRONT</td><td>002-3745A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-LOWER –EXP</td><td>6J7308</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-UPPER –EXP</td><td>6J7918</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle lower for i2000</td><td>6J7450</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle upper for i2000</td><td>9E7426</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BASE-FRONT</td><td>5F8320</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Background, FP/BP,67T</td><td>SPS008093</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 107T</td><td>9E8861</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 132T</td><td>9E8208</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Timing 91-EXP</td><td>9E4089</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 99T</td><td>9E8245</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,102T</td><td>SP398366A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,64T</td><td>SP398365A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,82T</td><td>SP398364A</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Skimmer Module,61T</td><td>SP398367A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i5000 series</td><td>8F9948</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i600 series</td><td>9E3357</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Board-On/Off for i4000 series</td><td>8F8390</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Bottom Output Cover for i1400 Series scanner</td><td>5F8460</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Sheet for i1120</td><td>066-0888-0</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Target</td><td>1271436</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group A</td><td>1309947</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group B</td><td>1295518</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group C</td><td>1494541</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group D</td><td>1598572</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group Dx</td><td>1012715</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover –POD Left for  i5000 series</td><td>8F8006</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover Feeder For i1200/i1300</td><td>9E4304</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, INPUT</td><td>5F8461</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, OUTPUT</td><td>5F8460</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover-Main Right for i4000 Series</td><td>8F8054</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Document Printer: Ink Cartridges / Black (10 cartridges) for i600 series</td><td>1355155</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer: Black Ink Cartridge</td><td>8183386</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer:Ink Cartridge Carrier</td><td>1133842</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i1400 Scanner</td><td>8215808</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large feeder kit for i5200</td><td>8387938</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i600 series</td><td>8426157</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed module Assy for i900 series</td><td>8467839</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Module for i2000 series</td><td>8269607</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller and separation pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller Assy. For i1120 Scanner</td><td>002-4519A-0</td><td>14 Apr 2015</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Rollers and Seperation Pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Consumable kit for i2900/i3000</td><td>1299676</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder consumable kit for i600 series</td><td>1084755</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i1180/i1150 Scanner</td><td>1756360</td><td>14 Apr 2015</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i4000 series</td><td>8327538</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable white Back ground with enhanced Printerfor i4000</td><td>8000853</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable White Background (without  Enhanced Printer)</td><td>8088239</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Hook Latch for i2000 Series</td><td>7J3545</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Housing Upper for i1120 Scanner</td><td>051-3805A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i1150</td><td>1664390</td><td>14 Apr 2015</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td>
+	</tr><tr>
+		<td>i1180</td><td>1840420</td><td>14 Apr 2015</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td>
+	</tr><tr>
+		<td>i1405</td><td>8252843</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i1420</td><td>8272676</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2400</td><td>8861437</td><td>14 Apr 2015</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td>
+	</tr><tr>
+		<td>i2600</td><td>1333756</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2800</td><td>1552181</td><td>14 Apr 2015</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2900</td><td>1140219</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3200</td><td>1641745</td><td>14 Apr 2015</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3250</td><td>1420975</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3400</td><td>1947506</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3450</td><td>1992874</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4200</td><td>8453508</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4600</td><td>1443589</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5200</td><td>8300766</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5800</td><td>8870412</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i940</td><td>1960988</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td>
+	</tr><tr>
+		<td>IEEE Firewire card and cable for i100/i600 series scanner</td><td>4F5114</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i100/i280 Scanner</td><td>1200278</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (With enhanced Printer)</td><td>8714438</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (Without enhanced Printer)</td><td>8348054</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i600 series</td><td>1976703</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ink Catridge Carrier for i5000 series</td><td>9E5146</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy  i5200</td><td>7J3929</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>INPUT TRAY ASSY FOR i1400 series Scanner</td><td>9E9512</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy-locking guides for i600</td><td>9E7557</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i1200/i1300 series</td><td>9E7761</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i2000 series scanner</td><td>7J3551 / 7J3553</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Kodak White Background Accessory</td><td>8927717</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i1400 series scanner</td><td>9E9173</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i200 / i600 Series</td><td>9E3312</td><td>14 Apr 2015</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Latch handle for i5200</td><td>8F8430</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED Assy -Right for i4200</td><td>8F8363</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED AY-Left for i4000 Series</td><td>8F8364</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lite on Camera Lower for i1200</td><td>9E3275</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i1400 series</td><td>9E9823</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i250/i260 series</td><td>9E7681</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Scan Module LED for i2000</td><td>6J7232</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Transport Assy</td><td>5F8459</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Main board for i1400 series scanner</td><td>9E9702</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT LARGE TRASPORT ROLLERS 648T</td><td>SP398317A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT STEPPER MOTOR 124T</td><td>SP398316A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ngenuity Small roller Kit</td><td>CNS1100</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY for i1200/i1300</td><td>9E5630</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Output Tray for i5200</td><td>8F9765</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY PII - EXP for i2000 series  </td><td>7J4336</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1120</td><td>005-3021B-09</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1400 series</td><td>6J7256</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i2000 series scanner</td><td>8F8466</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power adaptor for i900 series scanner</td><td>33-00400-02A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Supply Adaptor for i100</td><td>8F7793</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pre-separation pad kit for i1120 Scanner</td><td>002-4534A-0</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pully Assy,IDLER-EXP</td><td>SPS009021</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>REAR COVER</td><td>9E9345</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Roller Cleaning pads</td><td>8535981</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR for i4000 series Scanner</td><td>9E8927</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR-PAPER PRESENT for i1200/i1300 series scanner</td><td>9E4323</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Separation Module for i2000 series</td><td>1736115</td><td>14 Apr 2015</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Seperation Module for i940</td><td>1775246</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Assy.Drive Take away</td><td>9E4822</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Mid Aperture</td><td>6J7432</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive mid aperture for i2000 Series</td><td>6J7288</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Post aperture for i2000 Series</td><td>6J7289</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Pre Aperture</td><td>6J7431</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Take Away</td><td>9E8357</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Mother Board  </td><td>S006792</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Motor Timing Belt</td><td>S007757</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Power Supply</td><td>Y005380</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Skimmer Modular Assy</td><td>Y005226</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Transport Timing Belt</td><td>S007759</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum V Timing Belt</td><td>S007758</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum XF camera  </td><td>SPS007740</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Switch Front Cover for i1120</td><td>008-0118A-09</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Top Cover Assy for i1400</td><td>9E9179</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Transport Cleaning Sheet</td><td>1690783</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Truper Roller Exchange Kit</td><td>8460321</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Receiver for i1200 / i1400 series</td><td>9E5617</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200 /i1400 Series</td><td>5E4635</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200  </td><td>9E4211</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i1400 series</td><td>9E9822</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i250/i260 series</td><td>9E7679</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper transport Assy.</td><td>5F8359</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Y Adptor Cable for i2000 Series</td><td>8F9955</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr>
+</table><table cellspacing="0" rules="all" border="1" style="border-collapse:collapse;">
+	<tr>
+		<td>Product Name</td><td>Product Code</td><td>As On Date</td><td>Openning balance Mumbai</td><td>Openning balance Delhi</td><td>Openning balance Chennai</td><td>Openning balance Bangalore</td><td>Openning balance Ahmedabad</td><td>Purchase Mumbai</td><td>Purchase Delhi</td><td>Purchase Chennai</td><td>Purchase Bangalore</td><td>Purchase Ahmedabad</td><td>Sales Mumbai</td><td>Sales Delhi</td><td>Sales Chennai</td><td>Sales Bangalore</td><td>Sales Ahmedabad</td><td>Closeing balance Mumbai</td><td>Closeing balance Delhi</td><td>Closeing balance Chennai</td><td>Closeing balance Bangalore</td><td>Closeing balance Ahmedabad</td>
+	</tr><tr>
+		<td>730DC Belt Unit Paper Feed</td><td>G402-3808</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A3 Flatbed</td><td>1894351</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>A4 Legal Flatbed</td><td>1199470</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>ASSLY CAMERA FRONT</td><td>002-3745A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-LOWER –EXP</td><td>6J7308</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BACKGROUND-UPPER –EXP</td><td>6J7918</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle lower for i2000</td><td>6J7450</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Baffle upper for i2000</td><td>9E7426</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>BASE-FRONT</td><td>5F8320</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Background, FP/BP,67T</td><td>SPS008093</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 107T</td><td>9E8861</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 132T</td><td>9E8208</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt Timing 91-EXP</td><td>9E4089</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt timing 99T</td><td>9E8245</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,102T</td><td>SP398366A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,64T</td><td>SP398365A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Clutch Assy, SKIM Module,82T</td><td>SP398364A</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Belt, Skimmer Module,61T</td><td>SP398367A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i5000 series</td><td>8F9948</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Black Background Assy for i600 series</td><td>9E3357</td><td>14 Apr 2015</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Board-On/Off for i4000 series</td><td>8F8390</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Bottom Output Cover for i1400 Series scanner</td><td>5F8460</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Sheet for i1120</td><td>066-0888-0</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Calibration Target</td><td>1271436</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group A</td><td>1309947</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group B</td><td>1295518</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group C</td><td>1494541</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group D</td><td>1598572</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Capture Pro Software Group Dx</td><td>1012715</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover –POD Left for  i5000 series</td><td>8F8006</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover Feeder For i1200/i1300</td><td>9E4304</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, INPUT</td><td>5F8461</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>COVER-BOTTOM, OUTPUT</td><td>5F8460</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Cover-Main Right for i4000 Series</td><td>8F8054</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Document Printer: Ink Cartridges / Black (10 cartridges) for i600 series</td><td>1355155</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer: Black Ink Cartridge</td><td>8183386</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Enhanced Printer:Ink Cartridge Carrier</td><td>1133842</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i1400 Scanner</td><td>8215808</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large feeder kit for i5200</td><td>8387938</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Extra Large Feeder Kit for i600 series</td><td>8426157</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed module Assy for i900 series</td><td>8467839</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Module for i2000 series</td><td>8269607</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller and separation pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Roller Assy. For i1120 Scanner</td><td>002-4519A-0</td><td>14 Apr 2015</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feed Rollers and Seperation Pad for i2000</td><td>1484864</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Consumable kit for i2900/i3000</td><td>1299676</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder consumable kit for i600 series</td><td>1084755</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i1180/i1150 Scanner</td><td>1756360</td><td>14 Apr 2015</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>15</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Feeder Kit for i4000 series</td><td>8327538</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable white Back ground with enhanced Printerfor i4000</td><td>8000853</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Flippable White Background (without  Enhanced Printer)</td><td>8088239</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Hook Latch for i2000 Series</td><td>7J3545</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Housing Upper for i1120 Scanner</td><td>051-3805A-0</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i1150</td><td>1664390</td><td>14 Apr 2015</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>17</td><td>7</td><td>14</td><td>12</td><td>2</td>
+	</tr><tr>
+		<td>i1180</td><td>1840420</td><td>14 Apr 2015</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>3</td><td>6</td><td>0</td>
+	</tr><tr>
+		<td>i1405</td><td>8252843</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i1420</td><td>8272676</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2400</td><td>8861437</td><td>14 Apr 2015</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>8</td><td>3</td><td>0</td><td>4</td><td>4</td>
+	</tr><tr>
+		<td>i2600</td><td>1333756</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2800</td><td>1552181</td><td>14 Apr 2015</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>6</td><td>4</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i2900</td><td>1140219</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3200</td><td>1641745</td><td>14 Apr 2015</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>16</td><td>3</td><td>1</td><td>1</td><td>0</td>
+	</tr><tr>
+		<td>i3250</td><td>1420975</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3400</td><td>1947506</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i3450</td><td>1992874</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4200</td><td>8453508</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i4600</td><td>1443589</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5200</td><td>8300766</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i5800</td><td>8870412</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>i940</td><td>1960988</td><td>14 Apr 2015</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>36</td><td>0</td><td>5</td><td>3</td><td>1</td>
+	</tr><tr>
+		<td>IEEE Firewire card and cable for i100/i600 series scanner</td><td>4F5114</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i100/i280 Scanner</td><td>1200278</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (With enhanced Printer)</td><td>8714438</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide Set For I4000 Series (Without enhanced Printer)</td><td>8348054</td><td>14 Apr 2015</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>4</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Imaging guide set for i600 series</td><td>1976703</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ink Catridge Carrier for i5000 series</td><td>9E5146</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy  i5200</td><td>7J3929</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>INPUT TRAY ASSY FOR i1400 series Scanner</td><td>9E9512</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray assy-locking guides for i600</td><td>9E7557</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i1200/i1300 series</td><td>9E7761</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Input tray for i2000 series scanner</td><td>7J3551 / 7J3553</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Kodak White Background Accessory</td><td>8927717</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i1400 series scanner</td><td>9E9173</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lamp for i200 / i600 Series</td><td>9E3312</td><td>14 Apr 2015</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>49</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Latch handle for i5200</td><td>8F8430</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED Assy -Right for i4200</td><td>8F8363</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>LED AY-Left for i4000 Series</td><td>8F8364</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lite on Camera Lower for i1200</td><td>9E3275</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i1400 series</td><td>9E9823</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Imaging guide for i250/i260 series</td><td>9E7681</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Scan Module LED for i2000</td><td>6J7232</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Lower Transport Assy</td><td>5F8459</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Main board for i1400 series scanner</td><td>9E9702</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT LARGE TRASPORT ROLLERS 648T</td><td>SP398317A</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>NGENUITY BELT STEPPER MOTOR 124T</td><td>SP398316A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Ngenuity Small roller Kit</td><td>CNS1100</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY for i1200/i1300</td><td>9E5630</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Output Tray for i5200</td><td>8F9765</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>OUTPUT TRAY PII - EXP for i2000 series  </td><td>7J4336</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1120</td><td>005-3021B-09</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i1400 series</td><td>6J7256</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Adaptor for i2000 series scanner</td><td>8F8466</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power adaptor for i900 series scanner</td><td>33-00400-02A</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Power Supply Adaptor for i100</td><td>8F7793</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pre-separation pad kit for i1120 Scanner</td><td>002-4534A-0</td><td>14 Apr 2015</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>11</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Pully Assy,IDLER-EXP</td><td>SPS009021</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>REAR COVER</td><td>9E9345</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Roller Cleaning pads</td><td>8535981</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR for i4000 series Scanner</td><td>9E8927</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>SENSOR-PAPER PRESENT for i1200/i1300 series scanner</td><td>9E4323</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Separation Module for i2000 series</td><td>1736115</td><td>14 Apr 2015</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>13</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Seperation Module for i940</td><td>1775246</td><td>14 Apr 2015</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>7</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Assy.Drive Take away</td><td>9E4822</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Mid Aperture</td><td>6J7432</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive mid aperture for i2000 Series</td><td>6J7288</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Post aperture for i2000 Series</td><td>6J7289</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft AY Drive Pre Aperture</td><td>6J7431</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Shaft Take Away</td><td>9E8357</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Mother Board  </td><td>S006792</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Motor Timing Belt</td><td>S007757</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Power Supply</td><td>Y005380</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Skimmer Modular Assy</td><td>Y005226</td><td>14 Apr 2015</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>2</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum Transport Timing Belt</td><td>S007759</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum V Timing Belt</td><td>S007758</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Spectrum XF camera  </td><td>SPS007740</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Switch Front Cover for i1120</td><td>008-0118A-09</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Top Cover Assy for i1400</td><td>9E9179</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Transport Cleaning Sheet</td><td>1690783</td><td>14 Apr 2015</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Truper Roller Exchange Kit</td><td>8460321</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Receiver for i1200 / i1400 series</td><td>9E5617</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200 /i1400 Series</td><td>5E4635</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>UDDS Transmitter for i1200  </td><td>9E4211</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i1400 series</td><td>9E9822</td><td>14 Apr 2015</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>5</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper Imaging guide for i250/i260 series</td><td>9E7679</td><td>14 Apr 2015</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>3</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Upper transport Assy.</td><td>5F8359</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr><tr>
+		<td>Y Adptor Cable for i2000 Series</td><td>8F9955</td><td>14 Apr 2015</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td>
+	</tr>
+</table>

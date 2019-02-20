@@ -1,0 +1,364 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+<meta charset="utf-8" />
+   <title>::Centillion IMG Inventory::</title>
+   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+   <meta content="" name="description" />
+   <meta content="" name="author" />
+   <link href="web/bootstrap.min.css" rel="stylesheet" />
+   <link href="web/bootstrap-responsive.min.css" rel="stylesheet" />
+   <link href="web/bootstrap-fileupload.css" rel="stylesheet" />
+   <link href="web/font-awesome.css" rel="stylesheet" />
+   <link href="web/style.css" rel="stylesheet" />
+   <link href="web/style_responsive.css" rel="stylesheet" />
+   <link href="web/style_default.css" rel="stylesheet" id="style_color" />
+
+   <link href="web/jquery.fancybox.css" rel="stylesheet" />
+   <link rel="stylesheet" type="text/css" href="web/uniform.default.css" />
+    <style type="text/css">
+        .style1
+        {
+            font-size: xx-large;
+            font-family: "Comic Sans MS";
+        }
+        .style3
+        {
+            color: #000000;
+        }
+        .top-nav
+        {
+            color: #FFFFFF;
+            background-color: #FFFFFF;
+            height: 29px;
+        }
+        .style4
+        {
+            color: #FFFFFF;
+        }
+        .style5
+        {
+            font-size: x-large;
+            font-family: "Comic Sans MS";
+        }
+    </style>
+   <!-- BEGIN JAVASCRIPTS -->    
+   <!-- Load javascripts at bottom, this will reduce page load time -->
+   <script type="text/javascript" src="web/jquery-1.8.3.min.js"></script>
+   <script type="text/javascript" src="web/bootstrap.min.js"></script>
+   <script  type="text/javascript" src="web/jquery.blockui.js"></script>
+   <!-- ie8 fixes -->
+   <!--[if lt IE 9]>
+   <script src="js/excanvas.js"></script>
+   <script src="js/respond.js"></script>
+   <![endif]-->
+   <script type="text/javascript" src="web/chosen.jquery.min.js"></script>
+   <script type="text/javascript" src="web/jquery.uniform.min.js"></script>
+   <script type="text/javascript" src="web/scripts.js"></script>
+   <script>
+       jQuery(document).ready(function () {
+           // initiate layout and plugins
+           App.init();
+       });
+   </script>
+   <!-- END JAVASCRIPTS -->  
+   
+</head>
+<!-- END HEAD -->
+<!-- BEGIN BODY -->
+<body class="fixed-top">
+    <form id="Form1" runat="server">
+        <asp:ToolkitScriptManager ID="ToolkitScriptManager2" runat="server"></asp:ToolkitScriptManager>
+        <!-- BEGIN HEADER -->
+        <div id="header" class="navbar navbar-inverse navbar-fixed-top">
+            <!-- BEGIN TOP NAVIGATION BAR -->
+            <div>
+                <div class="container-fluid">
+                    <!-- BEGIN LOGO -->
+                    <a class="brand" href="">
+                        <asp:ImageButton ID="ImageButton1" runat="server" ImageUrl="~/img/aa.jpg"
+                            Height="35px" Width="79px" />
+                    </a>
+                    <!-- END LOGO -->
+                    <!-- BEGIN RESPONSIVE MENU TOGGLER -->
+                    <a class="btn btn-navbar collapsed" id="main_menu_trigger" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="arrow"></span>
+                    </a>
+
+                    <div class="top-nav ">
+                        <ul class="nav pull-right top-menu">
+                            <span class="style4">
+                                <!-- BEGIN SUPPORT -->
+                            </span>
+
+                            <!-- END SUPPORT -->
+                            <!-- BEGIN USER LOGIN DROPDOWN -->
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <asp:Image ID="Image1" runat="server" ImageUrl="img/avatar-mini.png"
+                                        Height="42px" Width="40px" CssClass="style4" />
+
+                                    <span class="username">
+                                        <asp:Label ID="lblUserName" runat="server" Text="Label"
+                                            CssClass="style4" Style="background-color: #000000"></asp:Label></span>
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                   <%-- <li><a href="LockScreen.aspx" class="style4"><i class="icon-lock"></i>Lock Screen</a></li>--%>
+                                    <li><a href="changepassword.aspx" class="style4"><i class="icon-tasks"></i>Change Password</a></li>
+
+                                    <li class="divider"></li>
+                                    <li><a href="Logout.aspx" class="style4"><i class="icon-key"></i>Log Out</a></li>
+                                </ul>
+                                <span class="style4"></li>
+                            <!-- END USER LOGIN DROPDOWN -->
+                        </ul>
+                        <span class="style4">
+                            <!-- END TOP NAVIGATION MENU -->
+                        </span>
+                        <strong><span class="style4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        </span><span class="style3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="style5">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; IMG Inventory </span></span>
+                            <span class="style1">
+                                <span class="style4">
+                                    <br />
+                                </span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></strong>
+                    </div>
+                </div>
+            </div>
+            <!-- END TOP NAVIGATION BAR -->
+        </div>
+        <!-- END HEADER -->
+        <!-- BEGIN CONTAINER -->
+        <div id="container" class="row-fluid">
+            <!-- BEGIN SIDEBAR -->
+            <div id="sidebar" class="nav-collapse collapse">
+                <div class="sidebar-toggler hidden-phone"></div>
+                <!-- BEGIN RESPONSIVE QUICK SEARCH FORM -->
+                <div class="navbar-inverse">
+                </div>
+                <!-- END RESPONSIVE QUICK SEARCH FORM -->
+                <!-- BEGIN SIDEBAR MENU -->
+                <ul class="sidebar-menu">
+                    <li><a class="" href="Workflow.aspx"><span class="icon-box"><i class="icon-home"></i></span>Home</a></li>
+
+                     <li class="has-sub" id="lSales" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-tags"></i></span>Sales
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <li><a class="" id="SO" href="SalesOrder.aspx" runat="server">Sales Order</a></li>
+                            <li><a class="" id="SMC" href="SalesManagerChecking.aspx" runat="server">Sales Manager Checking</a></li>
+                             <li><a class="" id="SOTINV" href="SOInvoicePDF.aspx" runat="server">Sales Tax Invoice</a></li>
+                             <li><a class="" id="SORD" href="SORejectedData.aspx" runat="server">Sales Order Rejected Data</a></li>
+                             <li><a class="" id="SIC" href="InvoiceCreditNote.aspx" runat="server">Sales Invoice Credit Note</a></li>
+                             <li><a class="" id="SICNPDF" href="SalesInvoiceCreditNotePDF.aspx" runat="server">Sales Invoice Credit Note(PDF)</a></li>
+                        </ul>
+                    </li>
+
+                     <li class="has-sub" id="LPRN" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-tags"></i></span>SPA
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <%--<li><a class="" id="PRN" href="PurchaseRequsitionNote.aspx" runat="server">Purchase Requsition Note (PRN)</a></li>--%>
+                            <li><a class="" id="SPA" href="SPA.aspx" runat="server">SPA</a></li> 
+                           <li><a class="" id="SAAU" href="ServiceAttachApprovalupload.aspx" runat="server">ServiceAttach Approval upload</a></li>   
+                           <li><a class="" id="SPAU" href="SPASUpload.aspx" runat="server">Special Price Approval upload</a></li>                            
+                        </ul>
+                    </li>
+
+                     <li class="has-sub" id="lBilling" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-tags"></i></span>Sale Billing
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+
+                            <li><a class="" href="MaterialDispatch.aspx">Material Dispatch</a></li>
+                            <li><a class="" href="InvoiceDispatch.aspx">Invoice Dispatch</a></li>
+                            <li><a class="" href="AgewiseReceivables.aspx">Agewise Receivables</a></li>
+
+                        </ul>
+                    </li>
+
+                    <li class="has-sub" id="lpurchase" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-shopping-cart"></i></span>Purchase
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                             <li><a class="" id="PRN1" href="PurchaseRequsitionNote.aspx" runat="server">Purchase Requisition Note (PRN)</a></li>
+                            <%--<li><a class=""  id="PO" href="PurchaseOrder.aspx" runat="server">Purchase Order</a></li>--%>
+                            <li><a class="" id="PCM" href="PurchaseManagerChecking.aspx" runat="server">Manager Checking</a></li>
+                              <li><a class="" id="GPO" href="GeneratePurchaseOrder.aspx" runat="server">Generate Purchase Order</a></li>
+                            <li><a class="" id="POPDF" href="PurchaseOrderPDF.aspx" runat="server">Purchase Order(PDF)</a></li>
+                              <li><a class="" id="GRN" href="GoodsRequisitionNote.aspx" runat="server">Goods Receipt Note</a></li>
+                             <li><a class="" id="GRNPDF" href="GRNPDF.aspx" runat="server">Goods Receipt Note PDF</a></li>
+                            <li><a class="" id="POINV" href="testPurchaseInvoice.aspx" runat="server">Purchase Invoice</a></li>
+                              <li><a class="" id="PRD" href="PORejectedData.aspx" runat="server">Purchase Order Rejected data </a></li>
+                        </ul>
+                    </li>
+
+                   <li class="has-sub" id="lSalesReport" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class=" icon-qrcode"></i></span>Sales Reports
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                                <li><a class="" href="ReportSalesOrderRegister.aspx">Sales Order Register Report</a></li>
+                            <li><a class="" href="ReportSalesRegister.aspx">Sales Register Report</a></li>
+                           
+                            <li><a class="" href="ReportAR.aspx">AR(Agewise Receivables) Report</a></li>
+                            <li><a class="" href="ReportDeliveryChallan.aspx">Delivery Challan Report</a></li>    
+                            <li><a class="" href="SORejectedReport.aspx">Sales Order Reject Report</a></li> 
+                            <li><a class="" href="Rpt_SalesOutstanding.aspx">Sales Order Outstanding Report</a></li> 
+                                                  
+                        </ul>
+                    </li>
+                   
+
+                     <li class="has-sub" id="lPurchaseReport" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class=" icon-qrcode"></i></span>Purchase Reports
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <li><a class="" href="ReportPurchaseOrderRegister.aspx">Purchase Order Register Report</a></li>
+                            <li><a class="" href="ReportPurchaseRegister.aspx">Purchase Register Report</a></li>
+                            <li><a class="" href="ReportOrdersPendingFromSupplier.aspx">Orders Pending For Execution From Supplier Report</a></li>
+                            <li><a class="" href="ReportDiscrepancyBetweenPOandSupplierInvocie.aspx">Discrepancy Between PO and Supplier Invocie Report</a></li>
+                            <li><a class="" href="PORejectedReport.aspx">Purchase Order Reject Report</a></li>    
+                            <li><a class="" href="RptPurchaseOutStanding.aspx">Purchase Order outstanding Report</a></li>  
+                            <li><a class="" href="Rpt_GoodsReceived_BillPending.aspx">Purchase Bill Pending Report</a></li>
+                            <li><a class="" href="SPAReport.aspx">SPA Report</a></li>                         
+                         </ul>
+                    </li>                    
+                                        
+                    <li class="has-sub" id="LiStrpt" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class=" icon-qrcode"></i></span>Stock Report
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <li><a class="" href="ReportStockStatement.aspx">Stock Statement Report</a></li>
+                            <li><a class="" href="RptReorderLevel.aspx">Re-Order Level Report</a></li>   
+                             <li><a class="" href="RptConsolidatedStock.aspx">Consolidate Stock Report</a></li> 
+                        </ul>
+                    </li>
+
+
+                    <li class="has-sub" id="admin" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-fire"></i></span>Admin
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <li><a class="" href="AdminUserCreation.aspx">User Creation</a></li>
+                            <li><a class="" href="AdminPasswordReset.aspx">Password Reset</a></li>
+                            <li><a class="" href="AdminActiveDeactiveUsers.aspx">Activate/DeActivate Users</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="has-sub" id="master" runat="server">
+                        <a href="javascript:;" class="">
+                            <span class="icon-box"><i class="icon-book"></i></span>Master Data
+                      <span class="arrow"></span>
+                        </a>
+                        <ul class="sub">
+                            <li><a class="" href="Admin_Customer.aspx">Customer/Supplier/Transporter</a></li>
+                            <li><a class="" href="VendorMaster.aspx">Vendor</a></li>
+                            <li><a class="" href="Regionalrepresentative.aspx">Regional Representative</a></li>
+                            <li><a class="" href="Admin_Category.aspx">Category</a></li>
+                            <li><a class="" href="Admin_product.aspx">Product</a></li>
+                            <li><a class="" href="admin_vertical.aspx">Vertical</a></li>
+                            <li><a class="" href="admin_dispatch.aspx">Dispatch</a></li>
+                            <li><a class="" href="Admin_Location.aspx">Location</a></li>
+                            <li><a class="" href="Warranty.aspx">Warranty</a></li>
+                              <li><a class="" href="PaymentTerms.aspx">Payment Terms</a></li>
+                            <%--<li><a class="" href="Admin_adress.aspx">Shipping/Billing Address</a></li>--%>
+                            <li><a class="" href="TaxName.aspx">Tax Name</a></li>
+                            <li><a class="" href="TaxRate.aspx">Tax Rate</a></li>
+                            <li><a class="" href="Master_TaxStructure.aspx">Tax Structure</a></li>
+                            <li><a class="" href="TaxMapping.aspx">Tax Mapping</a></li>
+                            <li><a class="" href="StockTrasnfer.aspx">Stock Trasnfer</a></li>
+                        </ul>
+                    </li>
+
+                    <%--<li><a class="" href="LockScreen.aspx"><span class="icon-box"><i class="icon-lock"></i></span>Lock Screen</a></li>--%>
+                    <li><a class="" href="login.aspx"><span class="icon-box"><i class="icon-key"></i></span>Log Out</a></li>
+                </ul>
+                <!-- END SIDEBAR MENU -->
+            </div>
+            <!-- END SIDEBAR -->
+            <!-- BEGIN PAGE -->
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <%--   <div id="main-content">
+         <!-- BEGIN PAGE CONTAINER-->
+         <div class="container-fluid">
+            <!-- BEGIN PAGE HEADER-->   
+            <div class="row-fluid">
+               <div class="span12">
+                   
+                  <!-- BEGIN PAGE TITLE & BREADCRUMB-->
+                   <h3 class="page-title">
+                     Blank Page
+                     <small>blank page sample</small>
+                  </h3>
+                   <ul class="breadcrumb">
+                       <li>
+                           <a href="#"><i class="icon-home"></i></a><span class="divider">&nbsp;</span>
+                       </li>
+                       <li>
+                           <a href="#">Sample Pages</a> <span class="divider">&nbsp;</span>
+                       </li>
+                       <li><a href="#">Blank Page</a><span class="divider-last">&nbsp;</span></li>
+                   </ul>
+                   <!-- END PAGE TITLE & BREADCRUMB-->
+               </div>
+            </div>
+            <!-- END PAGE HEADER-->
+            <!-- BEGIN PAGE CONTENT-->
+            <div class="row-fluid">
+               <div class="span12">
+                  <div class="widget">
+                        <div class="widget-title">
+                           <h4><i class="icon-globe"></i>Blank Page</h4>
+                           <span class="tools">
+                           <a href="javascript:;" class="icon-chevron-down"></a>
+                           <a href="javascript:;" class="icon-remove"></a>
+                           </span>                    
+                        </div>
+                        <div class="widget-body">
+                            Blank page sample
+                        </div>
+                  </div>
+               </div>
+            </div>
+            <!-- END PAGE CONTENT-->         
+         </div>
+         <!-- END PAGE CONTAINER-->
+      </div>--%>
+            <!-- END PAGE -->
+        </div>
+        <!-- END CONTAINER -->
+        <!-- BEGIN FOOTER -->
+        <div id="footer">
+            <span class="style3">2018 © Centillion Solution And Services (P) Ltd.</span>
+            <div class="span pull-right">
+                <span class="go-top"><i class="icon-arrow-up"></i></span>
+            </div>
+        </div>
+        <!-- END FOOTER -->
+    </form>  
+</body>
+<!-- END BODY -->
+</html>
